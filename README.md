@@ -1,2 +1,4 @@
 # wordsearcher
-actual website for using the models
+COMING SOON!!!!
+PROBABLY!!!!!
+HOPEFULLY!!!!
