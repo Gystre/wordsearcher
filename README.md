@@ -3,5 +3,5 @@
 -   [x] computer vision models
 -   [x] proof of concept
 -   [x] website design
--   [] production product
--   [] release
+-   [ ] production product
+-   [ ] release
