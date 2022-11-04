@@ -1,4 +1,10 @@
-# ![Wordsearcher](https://cdn.discordapp.com/attachments/200994742782132224/1038186823861686292/logo.png) Wordsearcher
+<p align="center">
+
+<img src="https://cdn.discordapp.com/attachments/200994742782132224/1038190505676259428/logo_with_title.png">
+
+</p>
+
+---
 
 [https://wordsearcher.kyleyu.org](https://wordsearcher.kyleyu.org)
 
@@ -6,7 +12,7 @@ Wordsearcher is an online tool I built utilizing computer vision to identify wor
 
 **Disclaimer:** doesn't work with non rectangular search areas, poorly lit images, or really bad quality images.
 
-## How to use
+# How to use
 
 ### Step 1:
 
