@@ -1,10 +1,14 @@
 <div align="center">
 
+<a href="https://wordsearcher.kyleyu.org" target="_blank" noreferrer>
 <img src="https://cdn.discordapp.com/attachments/200994742782132224/1038190505676259428/logo_with_title.png">
+</a>
 
 [https://wordsearcher.kyleyu.org](https://wordsearcher.kyleyu.org)
 
 </div>
+
+---
 
 
 Wordsearcher is an online tool I built utilizing computer vision to identify word searches and uses a simple algorithm to solve them.
