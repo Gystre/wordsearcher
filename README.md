@@ -9,7 +9,7 @@
 
 Wordsearcher is an online tool I built utilizing computer vision to identify word searches and uses a simple algorithm to solve them.
 
-**Disclaimer** doesn't work with non rectangular search areas or poor quality/lit images.
+**Disclaimer** doesn't work with non rectangular search areas or poorly lit images.
 
 ## How to use
 
