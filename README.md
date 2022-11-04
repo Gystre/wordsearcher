@@ -1,11 +1,6 @@
-<div style="text-align: center;">
-<img width=50 height=50 src="https://cdn.discordapp.com/attachments/200994742782132224/1037971295155007518/logo.png">
-
-# Wordsearcher
+# ![Wordsearcher](https://cdn.discordapp.com/attachments/200994742782132224/1038186823861686292/logo.png) Wordsearcher
 
 [https://wordsearcher.kyleyu.org](https://wordsearcher.kyleyu.org)
-
-</div>
 
 Wordsearcher is an online tool I built utilizing computer vision to identify word searches and uses a simple algorithm to solve them.
 
