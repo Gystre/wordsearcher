@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://wordsearcher.kyleyu.org">
-<img src="https://raw.githubusercontent.com/Gystre/wordsearcher/main/wordsearcher_logo.jpg">
+<img src="https://raw.githubusercontent.com/Gystre/wordsearcher/main/wordsearcher_logo.png">
 </a>
 
 [https://wordsearcher.kyleyu.org](https://wordsearcher.kyleyu.org)
